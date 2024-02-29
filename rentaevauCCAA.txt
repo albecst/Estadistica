@@ -1,0 +1,16 @@
+rpc	evau	CA
+ 15.394 461	Extremadura
+ 19.960 172	Andalucia
+ 18.520 162	Murcia
+ 20.723 489	Galicia
+ 21.035 500	Asturias
+ 22.289 509	CastillaLeon
+ 22.341 491	Cantabria
+ 22.772 484	CastillaMancha
+ 24.393 475	Baleares
+ 25.508 503	LaRioja
+ 25.540 496	Aragon
+ 27.248 493	Cataluña
+ 29.071 517	Navarra
+ 29.385 504	Madrid
+ 30.829 505	PaisVasco

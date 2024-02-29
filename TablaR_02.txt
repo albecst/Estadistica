@@ -1,0 +1,6 @@
+Sexo Tensión_arterial Pulso
+Hombre 119 59
+Mujer 99 89
+Hombre 102 107
+Hombre 78 76
+Mujer 78 91
